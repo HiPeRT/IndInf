@@ -68,6 +68,7 @@ int sfn(int currState, char input)
 	// If we're here, it's an error
 	return -1;
 }
+
 /*
  * Computes output. Moore machine.
  */
@@ -88,7 +89,7 @@ void mfn(int currState)
 			break;
 			
 		case 3:
-			cout << "BLUE LED ON" << endl;
+			cout << "GREEN LED ON" << endl;
 			break;
 			
 		default:
