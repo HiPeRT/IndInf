@@ -1,4 +1,4 @@
-EXENAME=automata1
+EXENAME=unittest
 CFLAGS=-Wall -I inc
 LDFLAGS=-l stdc++
 CSRCS=src/fsm-with-array.c \
