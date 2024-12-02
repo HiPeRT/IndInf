@@ -14,4 +14,5 @@ This is official repository of the course Industrial Informatics LT, Year 2024/2
 
 - Code/ --> Code snippets & tutorials
 - Exams/ --> Past/example of exams [*coming soon*]
+- Seminars/ --> Material from seminars, companies visits, etc
 - Slides/ --> Course slides
