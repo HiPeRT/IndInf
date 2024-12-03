@@ -66,7 +66,7 @@ int main()
 
     for(int i=1; i<NUM_THREADS; i++)
     {
-        pthread_join(mythreads[i], &returnvalue);
+        err = pthread_join(mythreads[i], &returnvalue);
         
         if(err != 0)
         {
