@@ -24,8 +24,8 @@
 | 181336    | 16       | 6  | 9   | 31    | 30   |                                                                  |
 | 184924    | 15       | 6  | 7   | 28    | 28   |                                                                  |
 | 185440    | 12.5     | 2  | 7   | 21.5  | 22   |                                                                  |
-| 184768    | 12       | 2  | 4   | 18    | 18   | Problemi di iscrizione, verrà registrato nell'appello di gennaio |
-| 178987    | 13       | 4  | 6   | 23    | 23   | Problemi di iscrizione, verrà registrato nell'appello di gennaio |
+| 178987    | 12       | 2  | 4   | 18    | 18   | Problemi di iscrizione, verrà registrato nell'appello di gennaio |
+| 184768    | 13       | 4  | 6   | 23    | 23   | Problemi di iscrizione, verrà registrato nell'appello di gennaio |
 
 
 # Ssimulazione scritto 10 Dicembre 2024
