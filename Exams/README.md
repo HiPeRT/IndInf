@@ -1,3 +1,15 @@
+# Scritto 15 Gennaio 2025
+
+| Matricola | Crocette | D9 | D10 | Esito | Voto | Note                     |
+|-----------|----------|----|-----|-------|------|--------------------------|
+| 177721    |          |    |     |       | ASS  | Assente non giustificata |
+| 184768    |          |    |     |       | 23   | Sostenuto il 20/12/24    |
+| 172253    | 4        |    |     | 4     | INS  |                          |
+| 177680    |          |    |     |       | ASS  | Assente giustificato     |
+| 178987    |          |    |     |       | 18   | Sostenuto il 20/12/24    |
+| 176278    | 7.5      |    |     | 7.5   | INS  |                          |
+| 168060    | 12.5     | 1  | 1   | 14.5  | 15   | Orale obbligatorio       |
+
 # Scritto 20 Dicembre 2024
 
 | Matricola | Crocette | D9 | D10 | Esito | Voto | Note                                                             |
