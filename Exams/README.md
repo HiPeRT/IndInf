@@ -1,3 +1,15 @@
+# Scritto 9 Giugno 2025
+
+| Matricola | Crocette | D9 | D10 | Esito | Voto | Note             |
+|-----------|----------|----|-----|-------|------|------------------|
+| 185328    | 11.5     | 0  | 0   | 11.5  | INS  |                  |
+| 172253    | 14       | 0  | 3   | 17    | 17   | Necessario orale |
+| 184270    | 5        |    |     | 5     | INS  |                  |
+| 132327    | 11.5     | 3  | 4   | 18.5  | 19   |                  |
+| 177680    | 10       | 0  | 5   | 15    | 15   | Necessario orale |
+| 168060    | 7        |    |     | 7     | INS  |                  |
+
+
 # Scritto 12 Febbraio 2025
 
 | Matricola | Crocette | D9 | D10 | Esito | Voto | Note             |
