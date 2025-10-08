@@ -13,6 +13,6 @@ This is official repository of the course Industrial Informatics LT, Year 2025/2
 ## Folder structure
 
 - Code/ --> Code snippets & tutorials
-- Exams/ --> Past/example of exams <i>[Coming soon..]</i>
+- Exams/ --> Past/example of exams
 - Seminars/ --> Material from seminars, companies visits, etc <i>[Coming soon..]</i>
 - Slides/ --> Course slides
