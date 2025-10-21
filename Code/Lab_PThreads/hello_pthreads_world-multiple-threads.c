@@ -9,7 +9,7 @@
 void * my_pthread_fn(void* args)
 {
     // Unbox/unmarshall my (user defined) ID
-    int my_id = * (int *) args; // This cast might generate a warning
+    int my_id = (int) args; // This cast might generate a warning
     
     printf("\t\t\t\t\tHello World! I am a thread %d, and the OS assigned me the ID %lu\n", my_id, pthread_self());
 
@@ -32,7 +32,7 @@ int main()
                               my_pthread_fn,
                               // Define thread Id (user-defined), from 1 onwards,
                               // and pass it as args (boxing/marshalling)
-                              (void *) &i // This cast might generate a warning
+                              (void *) i // This cast might generate a warning
                              );
         
         if(res != 0)

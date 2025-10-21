@@ -33,6 +33,8 @@ int main()
     pthread_t mythread;
     pthread_attr_t attr;
 
+    int myvar = 11;
+
     int res = pthread_attr_init(&attr);
 
                                                                 // ==> FORK
