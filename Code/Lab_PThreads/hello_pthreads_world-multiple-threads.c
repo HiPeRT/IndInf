@@ -31,8 +31,9 @@ int main()
                               &attr[i],
                               my_pthread_fn,
                               // Define thread Id (user-defined), from 1 onwards,
-                              // and pass it as args (boxing/marshalling)
-                              (void *) i // This cast might generate a warning
+                              // and pass it as args via boxing and/or marshalling (here, just boxing)
+                              (void *) i // This cast might generate a warning as I am BOXING
+                                         // an integer in a void* (i.e., meant to store an ADDRESS TYPE)
                              );
         
         if(res != 0)

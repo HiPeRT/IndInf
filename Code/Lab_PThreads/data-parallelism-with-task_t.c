@@ -79,7 +79,7 @@ int main()
         tasks[i].arg = &data[i];
                            
         // Define thread Id (user-defined), from 1 onwards,
-        // and pass it as args (boxing/marshalling)                             
+        // and pass it as args (boxing & marshalling)                             
         res = pthread_create (&mythread[i],
                               &attr[i],
                               tasks[i].body,
