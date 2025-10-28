@@ -50,8 +50,8 @@ void sfn_goodstateandwronginput_returnerrorcode()
     char c = '?';
     // NOTE this test is badly written on purpose, and will fail, because
     // I expect -5, while the correct value is -1, to give an example of failed test
-    //int expectedval = -1;
-    int expectedval = -5;
+    int expectedval = -1;
+    //int expectedval = -5;
     
     // Act
     int ret = sfn(s, c);
