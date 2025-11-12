@@ -2,6 +2,8 @@
 
 This is a simple project to build a thread-safe FIFO queue based on a circular array, either in C or C++ language.
 
+<img src="Slide.png " width="500">
+
 ## Folders structure
 
 - <i>build/</i> : build folder with Makefile
