@@ -1,6 +1,6 @@
 # Scritto 14 gennaio 2026
 
-|           |  Primo parz. || Secondo parz.||   Esame completo   ||       |      |      |
+|           |  Primo parz. | | Secondo parz.| |   Esame completo   | | |       |      |      |
 | Matricola | Crocette | D7 | Crocette | D9 | Crocette | D9 | D10 | Esito | Voto | Note |
 |-----------|----------|----|----------|----|----------|----|-----|-------|------|------|
 | 185328    |          |    |          |    |          |    |     | ASS   | ASS  |      |
