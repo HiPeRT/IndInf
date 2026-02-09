@@ -1,5 +1,29 @@
-# Scritto 14 gennaio 2026
+# Scritto 2 febbraio 2026
 
+| Matricola | Primo parz.  || Secondo parz.|| Esame completo    ||| Esito | Voto | Note |
+|-----------|----------|----|----------|----|----------|----|-----|-------|------|------|
+|           | Crocette | D7 | Crocette | D9 | Crocette | D9 | D10 |       |      |      |
+| 185328 |     |   |     |   |      |   |   | ASS  | ASS | Assente non giustificato |
+| 190415 |     |   |     |   | 13,5 | 2 | 5 | 20,5 | 21  |                          |
+| 190936 |     |   |     |   | 14,5 | 6 | 4 | 24,5 | 25  |                          |
+| 177902 |     |   |     |   |      |   |   | ASS  | ASS |                          |
+| 190250 | 10  | 5 | 4,5 | 6 |      |   |   | 25,5 | 26  |                          |
+| 177640 |     |   |     |   |      |   |   | ASS  | ASS | Assente non giustificato |
+| 189789 |     |   |     |   | 13   | 0 | 1 | 14   | INS |                          |
+| 193545 | 6,5 | 5 | 6   | 2 |      |   |   | 19,5 | 20  |                          |
+| 188415 |     |   |     |   |      |   |   | RIT  | RIT |                          |
+| 188567 | 5,5 | 3 | 4   | 3 |      |   |   | 15,5 | 16  | Necessario orale         |
+| 180020 |     |   |     |   | 11,5 | 0 | 1 | 12,5 | INS |                          |
+| 189171 | 6,5 | 5 | 6   | 0 |      |   |   | 17,5 | 18  |                          |
+| 195470 |     |   |     |   | 5,5  |   |   | INS  | INS |                          |
+| 195322 |     |   |     |   | 6    |   |   | INS  | INS |                          |
+| 193589 |     |   |     |   |      |   |   | ASS  | ASS |                          |
+| 207004 |     |   |     |   |      |   |   | ASS  | ASS | Assente non giustificato |
+| 189317 | 10  | 2 | 4   | 0 |      |   |   | 16   | 16  | Necessario orale. Non iscritto all’appello. Da registrare eventualmente nel prossimo appello |
+
+
+
+# Scritto 14 gennaio 2026
 
 | Matricola | Primo parz.  || Secondo parz.|| Esame completo    ||| Esito | Voto | Note |
 |-----------|----------|----|----------|----|----------|----|-----|-------|------|------|
