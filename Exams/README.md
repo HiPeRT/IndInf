@@ -1,3 +1,33 @@
+# Scritto 17 febbraio 2026
+
+| Matricola | D9 | D10 | Esito | Voto | Note                                                                      |
+|-----------|----|-----|-------|------|---------------------------------------------------------------------------|
+| 185328    |    |     | ASS   | ASS  | Assente non giustificato                                                  |
+| 171457    |    |     | RIT   | RIT  |                                                                           |
+| 190936    | 9  | 5   | 30    | 30   |                                                                           |
+| 191132    | 9  | 5   | 29,5  | 30   |                                                                           |
+| 177640    |    |     | ASS   | ASS  | Assente non giustificato                                                  |
+| 189789    | 9  | 5   | 30    | 30   |                                                                           |
+| 188681    | 9  | 5   | 30    | 30   |                                                                           |
+| 187961    |    |     | ASS   | ASS  |                                                                           |
+| 188415    | 6  | 5   | 26    | 26   |                                                                           |
+| 196292    |    |     | 4,5   | INS  |                                                                           |
+| 188567    |    |     | 8,5   | INS  |                                                                           |
+| 189317    |    |     |       | 18   | Scritto sostenuto il 2 febbraio 2026. ORALE sostenuto il 17 febbraio 2026 |
+| 180020    | 7  | 5   | 24    | 24   |                                                                           |
+| 189062    | 7  | 3   | 20    | 20   |                                                                           |
+| 185519    |    |     | ASS   | ASS  |                                                                           |
+| 193362    |    |     | RIT   | RIT  |                                                                           |
+| 195470    |    |     | 7     | INS  |                                                                           |
+| 195322    |    |     | 4,5   | INS  |                                                                           |
+| 193589    | 9  | 5   | 28    | 28   |                                                                           |
+| 207004    |    |     | 1     | INS  |                                                                           |
+| 178752    | 9  | 5   | 25,5  | 26   |                                                                           |
+
+
+
+
+
 # Scritto 2 febbraio 2026
 
 | Matricola | Primo parz.  || Secondo parz.|| Esame completo    ||| Esito | Voto | Note |
