@@ -61,7 +61,8 @@ int main()
         res = pthread_attr_init(&attr[i]);
         
         // Marshal data
-        data[i].arr_ptr = &arr[i];
+        //data[i].arr_ptr = &arr[i]; // This is buggy. Why?
+        data[i].arr_ptr = &arr[0];
         data[i].myid = i;
                            
         // Define thread Id (user-defined), from 1 onwards,
