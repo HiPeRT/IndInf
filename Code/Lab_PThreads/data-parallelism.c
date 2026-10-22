@@ -4,6 +4,8 @@
 #define NUM_THREADS 16
 #define SIZE 16
 
+int arr[SIZE];
+
 /*
  * This function is the code of PThread
  */
@@ -32,7 +34,6 @@ int main()
     pthread_attr_t attr[NUM_THREADS];
     int res;
 
-    int arr[SIZE];
 
     // Init my array
     for (unsigned int i = 0; i < SIZE; i++)
